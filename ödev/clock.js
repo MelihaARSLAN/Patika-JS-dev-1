@@ -14,8 +14,8 @@ function date() {
     let saniye = momentary.getSeconds()
     let _date = new Date()
     let days = ["Pazar","Pazartesi","Sali","Carsamba","Persembe","Cuma","Cumartesi"]
-    let yigittn = document.querySelector("#myClock")
-    yigittn.innerHTML = saat + ":" + dakika + ":" + saniye + " " + days[_date.getDay()]
+    let meliha = document.querySelector("#myClock")
+    meliha.innerHTML = saat + ":" + dakika + ":" + saniye + " " + days[_date.getDay()]
 
 }
 
