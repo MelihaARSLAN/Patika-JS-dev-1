@@ -2,4 +2,4 @@
 JSPatikaOdeviClock
 
 
-https://app.patika.dev/yigittn
+https://app.patika.dev/softwarechick
